@@ -1,7 +1,7 @@
 // Initialize Croppie instance and bind placeholder image
 var croppieInstance = new Croppie(document.getElementById('croppie'), {
-  viewport: { width: 230, height: 230 },
-  boundary: { width: 300, height: 300 }
+  viewport: { width: 270, height: 270 },
+  boundary: { width: 350, height: 350 }
 });
 
 // 画像の初期バインド
