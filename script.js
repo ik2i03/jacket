@@ -6,7 +6,7 @@ var croppieInstance = new Croppie(document.getElementById('croppie'), {
 
 // 画像の初期バインド
 croppieInstance.bind({
-  url: "https://raw.githubusercontent.com/ik2i03/cropp/main/IMG_0313.PNG"
+  url: "https://raw.githubusercontent.com/ik2i03/jacket/main/IMG_0314.PNG"
 });
 
 // 画像アップロードイベント
